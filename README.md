@@ -7,3 +7,5 @@ This is my first GitHub repo!
 
  ## About This Project
    I'm learning Git and GitHub!
+   
+Added the next line
