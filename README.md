@@ -16,5 +16,10 @@ Added the next line
  ##Todo list
    added new branch
    
+
    ## Colors
 My favorite color is blue
+
+   ## Hobbies
+I enjoy coding and learning Git
+feature-hobbies
