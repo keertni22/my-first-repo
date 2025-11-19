@@ -33,3 +33,6 @@ feature-hobbies
    
     ## Added Goals
    - Learn Git and GitHub
+
+   - ## Remote Changes
+   This edit was made directly on GitHub!
