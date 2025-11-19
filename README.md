@@ -23,3 +23,10 @@ My favorite color is blue
    ## Hobbies
 I enjoy coding and learning Git
 feature-hobbies
+
+
+
+## Skills I'm Learning
+   - Git and GitHub
+   - Version control
+   - Collaboration workflows
