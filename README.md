@@ -30,3 +30,6 @@ feature-hobbies
    - Git and GitHub
    - Version control
    - Collaboration workflows
+   
+    ## Added Goals
+   - Learn Git and GitHub
