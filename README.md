@@ -2,7 +2,7 @@
 Learning GitHub basics
 This is my first GitHub repo!
 
-## My Amazing Project - Version 1t
+## My Amazing Awesome Project - Final Version
    This change was made on my local computer!
 
  ## About This Project
