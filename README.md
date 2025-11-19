@@ -2,7 +2,7 @@
 Learning GitHub basics
 This is my first GitHub repo!
 
-## My First Edit
+## My Amazing Project - Version 1t
    This change was made on my local computer!
 
  ## About This Project
@@ -13,5 +13,5 @@ Added the next line
 ## Contact
    Email: myemail@example.com
    
-  ##Todo list
+ ##Todo list
    added new branch
