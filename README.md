@@ -9,3 +9,6 @@ This is my first GitHub repo!
    I'm learning Git and GitHub!
    
 Added the next line
+
+## Contact
+   Email: myemail@example.com
