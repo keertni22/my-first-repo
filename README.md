@@ -15,3 +15,6 @@ Added the next line
    
  ##Todo list
    added new branch
+   
+   ## Hobbies
+I enjoy coding and learning Git
